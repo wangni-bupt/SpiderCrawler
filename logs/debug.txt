@@ -1,0 +1,30 @@
+2019-06-04 20:09:45,489 INFO [AWT-EventQueue-0] us.codecraft.webmagic.Spider.run(306) | Spider blog.hellobi.com started!
+2019-06-04 20:09:48,088 INFO [pool-1-thread-1] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://blog.hellobi.com/hot/weekly?page=1
+2019-06-04 20:09:50,985 INFO [pool-1-thread-4] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35234
+2019-06-04 20:09:51,029 INFO [pool-1-thread-5] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35235
+2019-06-04 20:09:51,039 INFO [pool-1-thread-2] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35233
+2019-06-04 20:09:51,070 INFO [pool-1-thread-1] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35236
+2019-06-04 20:09:51,087 INFO [pool-1-thread-3] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35242
+2019-06-04 20:09:54,283 INFO [pool-1-thread-3] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35240
+2019-06-04 20:09:54,501 INFO [pool-1-thread-4] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35238
+2019-06-04 20:09:54,666 INFO [pool-1-thread-2] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35237
+2019-06-04 20:09:54,920 INFO [pool-1-thread-1] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35241
+2019-06-04 20:09:55,093 INFO [pool-1-thread-5] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35244
+2019-06-04 20:09:56,596 INFO [pool-1-thread-3] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35239
+2019-06-04 20:09:56,906 INFO [pool-1-thread-2] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35243
+2019-06-04 20:09:57,405 INFO [pool-1-thread-4] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35248
+2019-06-04 20:09:57,578 INFO [pool-1-thread-5] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35246
+2019-06-04 20:09:57,614 INFO [pool-1-thread-1] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35249
+2019-06-04 20:09:58,920 INFO [pool-1-thread-3] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35245
+2019-06-04 20:09:59,110 INFO [pool-1-thread-2] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35250
+2019-06-04 20:09:59,478 INFO [pool-1-thread-4] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35255
+2019-06-04 20:09:59,710 INFO [pool-1-thread-5] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35251
+2019-06-04 20:09:59,879 INFO [pool-1-thread-1] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35254
+2019-06-04 20:10:01,567 INFO [pool-1-thread-3] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://blog.hellobi.com/hot/weekly?page=2
+2019-06-04 20:10:03,145 INFO [pool-1-thread-4] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35253
+2019-06-04 20:10:03,147 INFO [pool-1-thread-3] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35258
+2019-06-04 20:10:03,241 INFO [pool-1-thread-2] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35252
+2019-06-04 20:10:03,267 INFO [pool-1-thread-1] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35256
+2019-06-04 20:10:03,304 INFO [pool-1-thread-5] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35247
+2019-06-04 20:10:05,298 INFO [pool-1-thread-5] us.codecraft.webmagic.downloader.HttpClientDownloader.download(88) | downloading page success https://ask.hellobi.com/article/35257
+2019-06-04 20:10:06,812 INFO [AWT-EventQueue-0] us.codecraft.webmagic.Spider.run(338) | Spider blog.hellobi.com closed! 28 pages downloaded.
